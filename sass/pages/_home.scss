@@ -1,0 +1,19 @@
+.section-homes{
+	background-color: $color-grey-dark-1;	
+	grid-column: center-start/center-end;
+}
+
+.section-features{
+	background-color: $color-grey-dark-1;
+	grid-column: center-start/center-end;
+}
+
+.section-gallery{
+	background-color: $color-grey-dark-1;
+	grid-column: full-start/full-end;
+}
+
+.testimonials {
+	background-color: $color-grey-light-2;
+	grid-column: center-start/center-end;
+}
